@@ -9,3 +9,8 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+### Project of Github newbie 
+![newbie](https://hiring.workopolis.com/wp-content/uploads/sites/3/2016/05/iStock_000059873678_Small.jpg)
+  
+[Link](https://github.com/manleung235/community-starter-kit)
